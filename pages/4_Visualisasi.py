@@ -193,4 +193,4 @@ if categorical_cols:
 col1, col2, col3 = st.columns([1, 8, 1])
 with col2:
     if st.button("Prediksi Data Baru", use_container_width=True):
-        st.switch_page("Pages/5_Prediksi_Data_Baru.py")
+        st.switch_page("pages/5_Prediksi_Data_Baru.py")
